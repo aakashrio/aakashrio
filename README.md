@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aakash Jothi</h1>
+
+<img src="https://www.canva.com/design/DAGmBxfASB0/Lt_hgMfmOM2y6z05tBEg2g/view?utm_content=DAGmBxfASB0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h89836b2d66" alt="react" width="40" height="40"/><h1 align="center">Hi 👋, I'm Aakash Jothi</h1>
 <h3 align="center">I am seeking a challenging career with a progressive organization that offers an opportunity to utilize my technical skills and abilities in the field of information technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
