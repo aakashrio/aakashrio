@@ -1,14 +1,94 @@
+<!-- 🔁 Keep your existing banner image line here (the "AAKASH — MERN FULL STACK DEVELOPER" banner) -->
 
-<img src="https://github.com/aakashrio/aakashrio/blob/main/Aakash.png" alt="Aakash" width="100%" height="auto"/>
-<h1 align="center"></h1>
-<h3 align="left">Hey there! Welcome to Aakash's GitHub
-I'm a MERN Full Stack Developer passionate about crafting modern web applications with MongoDB, Express, React, and Node.js.
-Dive into my repos to see what I'm building next.</h3>
+<h1 align="center">Hi, I'm Aakash 👋</h1>
+<h3 align="center">MERN Stack Developer · I build and ship web & mobile apps end to end</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/aakashjothi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aakashjothi20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> -->
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CM2XQxh4r/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aakash.j_/profilecard/?igsh=bWY0cGdnc2R3Y3lh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aakash-j-5966b0223/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AakashJ22762316?t=2NW4v6VnFcf_ATrdRAy-wA&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakashjothi20@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+### 🚀 About Me
+
+- 💼 **Full-Stack Developer (MERN)** at Peppy Gold Technologies, building production web and mobile apps
+- 🧭 **4 years in IT**: 1+ year full-stack development, earlier in Python automation and production support at Comodo Security
+- 💳 Built **end-to-end Razorpay payment flows**: order creation, checkout and webhook handling
+- 🏢 Built **multi-role B2B dashboards** with role-based access control (RBAC) and bulk upload workflows
+- ☁️ Deploy web apps on **Firebase Hosting** and Express.js APIs on **Firebase Cloud Functions**
+- 📱 Published apps to the **Apple App Store** and **Google Play Store**
+- 🤖 Use AI coding agents (**Claude Code, GitHub Copilot, Codex**) to ship faster
+- 📍 Tamil Nadu, India · Open to full-stack roles in Chennai, Bangalore, Coimbatore and remote
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Payments, Cloud & Deployment**
+
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(basics)-232F3E?style=for-the-badge&logoColor=white)
+
+**Mobile Publishing**
+
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+**Tools & AI**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Also**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+### 📱 Shipped to Production
+
+| Platform | Status |
+|---|---|
+| 🍎 Apple App Store | Live <!-- add your App Store link here --> |
+| 🤖 Google Play Store | Live <!-- add your Play Store link here --> |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aakashrio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrio&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center"><i>Open to new opportunities. Let's build something together! 🤝</i></p>
