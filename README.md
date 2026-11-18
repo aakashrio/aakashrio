@@ -70,24 +70,5 @@
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
----
-
-### <img src="https://api.iconify.design/tabler/rocket.svg?color=%2358a6ff" width="22" alt=""/> Shipped to Production
-
-| Platform | Status |
-|---|---|
-| <img src="https://api.iconify.design/tabler/brand-apple.svg?color=%2358a6ff" width="16" alt=""/> Apple App Store | Live <!-- add your App Store link here --> |
-| <img src="https://api.iconify.design/tabler/brand-google-play.svg?color=%2358a6ff" width="16" alt=""/> Google Play Store | Live <!-- add your Play Store link here --> |
-
----
-
-### <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%2358a6ff" width="22" alt=""/> GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aakashrio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrio&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
 ---
 <p align="center"><i>Open to new opportunities. Let's build something together!</i></p>
