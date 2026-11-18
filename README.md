@@ -73,22 +73,4 @@
 
 ---
 
-### 📱 Shipped to Production
-
-| Platform | Status |
-|---|---|
-| 🍎 Apple App Store | Live <!-- add your App Store link here --> |
-| 🤖 Google Play Store | Live <!-- add your Play Store link here --> |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aakashrio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrio&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
 <p align="center"><i>Open to new opportunities. Let's build something together! 🤝</i></p>
