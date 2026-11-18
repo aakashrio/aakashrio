@@ -1,6 +1,6 @@
-<!-- 🔁 Keep your existing banner image line here (the "AAKASH — MERN FULL STACK DEVELOPER" banner) -->
+<!-- Keep your existing banner image line here (the "AAKASH — MERN FULL STACK DEVELOPER" banner) -->
 
-<h1 align="center">Hi, I'm Aakash 👋</h1>
+<h1 align="center">Hi, I'm Aakash</h1>
 <h3 align="center">MERN Stack Developer · I build and ship web & mobile apps end to end</h3>
 
 <p align="center">
@@ -11,20 +11,20 @@
 
 ---
 
-### 🚀 About Me
+### <img src="https://api.iconify.design/tabler/user.svg?color=%2358a6ff" width="22" alt=""/> About Me
 
-- 💼 **Full-Stack Developer (MERN)** at Peppy Gold Technologies, building production web and mobile apps
-- 🧭 **4 years in IT**: 1+ year full-stack development, earlier in Python automation and production support at Comodo Security
-- 💳 Built **end-to-end Razorpay payment flows**: order creation, checkout and webhook handling
-- 🏢 Built **multi-role B2B dashboards** with role-based access control (RBAC) and bulk upload workflows
-- ☁️ Deploy web apps on **Firebase Hosting** and Express.js APIs on **Firebase Cloud Functions**
-- 📱 Published apps to the **Apple App Store** and **Google Play Store**
-- 🤖 Use AI coding agents (**Claude Code, GitHub Copilot, Codex**) to ship faster
-- 📍 Tamil Nadu, India · Open to full-stack roles in Chennai, Bangalore, Coimbatore and remote
+- <img src="https://api.iconify.design/tabler/briefcase.svg?color=%2358a6ff" width="16" alt=""/> **Full-Stack Developer (MERN)** at Peppy Gold Technologies, building production web and mobile apps
+- <img src="https://api.iconify.design/tabler/route.svg?color=%2358a6ff" width="16" alt=""/> **4 years in IT**: 1+ year full-stack development, earlier in Python automation and production support at Comodo Security
+- <img src="https://api.iconify.design/tabler/credit-card.svg?color=%2358a6ff" width="16" alt=""/> Built **end-to-end Razorpay payment flows**: order creation, checkout and webhook handling
+- <img src="https://api.iconify.design/tabler/layout-dashboard.svg?color=%2358a6ff" width="16" alt=""/> Built **multi-role B2B dashboards** with role-based access control (RBAC) and bulk upload workflows
+- <img src="https://api.iconify.design/tabler/cloud-upload.svg?color=%2358a6ff" width="16" alt=""/> Deploy web apps on **Firebase Hosting** and Express.js APIs on **Firebase Cloud Functions**
+- <img src="https://api.iconify.design/tabler/device-mobile.svg?color=%2358a6ff" width="16" alt=""/> Published apps to the **Apple App Store** and **Google Play Store**
+- <img src="https://api.iconify.design/tabler/robot.svg?color=%2358a6ff" width="16" alt=""/> Use AI coding agents (**Claude Code, GitHub Copilot, Codex**) to ship faster
+- <img src="https://api.iconify.design/tabler/map-pin.svg?color=%2358a6ff" width="16" alt=""/> Tamil Nadu, India · Open to full-stack roles in Chennai, Bangalore, Coimbatore and remote
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://api.iconify.design/tabler/code.svg?color=%2358a6ff" width="22" alt=""/> Tech Stack
 
 **Frontend**
 
@@ -73,4 +73,21 @@
 
 ---
 
-<p align="center"><i>Open to new opportunities. Let's build something together! 🤝</i></p>
+### <img src="https://api.iconify.design/tabler/rocket.svg?color=%2358a6ff" width="22" alt=""/> Shipped to Production
+
+| Platform | Status |
+|---|---|
+| <img src="https://api.iconify.design/tabler/brand-apple.svg?color=%2358a6ff" width="16" alt=""/> Apple App Store | Live <!-- add your App Store link here --> |
+| <img src="https://api.iconify.design/tabler/brand-google-play.svg?color=%2358a6ff" width="16" alt=""/> Google Play Store | Live <!-- add your Play Store link here --> |
+
+---
+
+### <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%2358a6ff" width="22" alt=""/> GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aakashrio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrio&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+<p align="center"><i>Open to new opportunities. Let's build something together!</i></p>
